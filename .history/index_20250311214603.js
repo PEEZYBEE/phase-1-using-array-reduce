@@ -1,3 +1,6 @@
+const batteryBatches = [];
+
+// Code your solution here
 const batteryBatches = [0, 31];
 
 const totalBatteries = batteryBatches.reduce(
